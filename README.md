@@ -2,7 +2,7 @@
 ## 👋 Allo, je suis Louis
 ### Je suis un étudiant en génie logiciel à l'école de technologie supérieure 💻:
 - Je cherche à acquérir de l'expérience dans le domaine 📖:
-- J'ai de nombreux centres d'intérêt, y compris 💡:
+- J'ai plusieurs intérêts, y compris 💡:
 ```
 enum Interets {
 
