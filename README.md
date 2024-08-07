@@ -25,7 +25,8 @@ enum Interets {
 | HTML |   |  | X |
 | CSS |   |  | X |
 | JavaScript |   |  | X |
-| TypeScript | X |  |   |
+| TypeScript |  | X |   |
+| PHP |   |  | X |
 | Go | X |  |   |
 |  |   |  |   |
 | Qt |   | X |   |
@@ -35,6 +36,8 @@ enum Interets {
 | MySQL |   |  | X |
 | Docker |   |  | X |
 | Virtual Box |   |  | X |
+| REST API |   |  | X |
+| Node |   | X |  |
 |  |   |  |   |
 
 
@@ -65,7 +68,7 @@ enum Interests {
 | HTML |   |  | X |
 | CSS |   |  | X |
 | JavaScript |   |  | X |
-| TypeScript | X |  |   |
+| TypeScript |  | X |   |
 | PHP |   |  | X |
 | Go | X |  |   |
 |  |   |  |   |
@@ -77,4 +80,5 @@ enum Interests {
 | Docker |   |  | X |
 | Virtual Box |   |  | X |
 | REST API |   |  | X |
+| Node |   | X |  |
 |  |   |  |   |
