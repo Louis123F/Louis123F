@@ -1,66 +1,27 @@
-# FR
-## 👋 Allo, je suis Louis
+# FR/EN 🇨🇦
+## 👋 Allo, je suis Louis / 👋 Hello, I am Louis
 ### Je suis un étudiant en génie logiciel à l'école de technologie supérieure 💻:
 - Je cherche à acquérir de l'expérience dans le domaine 📖:
 - J'ai plusieurs intérêts, y compris 💡:
+### I am a software engineering student at école de technologie supérieure 💻:
+- I am looking to gain experience in the field 📖:
+- I have many interests including 💡:
 ```
 enum Interets {
 
-  DeveloppementWeb,
-  DeveloppementMobile,
-  DeveloppementApplicationsDeBureau,
-  InformatiqueQuantique,
-  DeveloppementDeJeux
+  WebDev,
+  MobileDev,
+  DesktopDev,
+  Quantum,
+  GameDev
 
 };
 ```
 
 - J'ai déjà de l'expérience dans les langages/frameworks/technologies suivantes :
-
-| Langages/Framework/Technologies | En apprentissage | Apris dans un cours/projet | Utilisé dans plusieurs cours/projet |
-|---|:---:|:---:|:---:|
-| C |   | X |   |
-| C++ |   |  | X |
-| Java |   |  | X |
-| HTML |   |  | X |
-| CSS |   |  | X |
-| JavaScript |   |  | X |
-| TypeScript |  | X |   |
-| PHP |   |  | X |
-| Go | X |  |   |
-|  |   |  |   |
-| Qt |   | X |   |
-| Android Studio |   |  | X |
-|  |   |  |   |
-| OracleSQL |   | X |   |
-| MySQL |   |  | X |
-| Docker |   |  | X |
-| Virtual Box |   |  | X |
-| REST API |   |  | X |
-| Node |   | X |  |
-|  |   |  |   |
-
-
-# EN
-## 👋 Hello, I am Louis
-### I am a software engineering student at école de technologie supérieure 💻:
-- I am looking to gain experience in the field 📖:
-- I have many interests including 💡:
-```
-enum Interests {
-
-  WebDevelopment,
-  MobileDevelopment,
-  DesktopAppDevelopment,
-  QuantumComputing,
-  GameDevelopment
-
-};
-```
-  
 - I already have experience in the following languages/frameworks/technologies :
 
-| Languages/Frameworks/Technologies | Learning | Learned in a course/project | Used in several courses/projects |
+| Langages/Languages | En apprentissage / Learning | Apris dans un projet / Learned in a project | Utilisé dans plusieurs projets / Used in multiple projects |
 |---|:---:|:---:|:---:|
 | C |   | X |   |
 | C++ |   |  | X |
@@ -71,14 +32,23 @@ enum Interests {
 | TypeScript |  | X |   |
 | PHP |   |  | X |
 | Go | X |  |   |
-|  |   |  |   |
+| Python | | X | |
+| GDScript | | X | |
+
+| Frameworks | En apprentissage / Learning | Apris dans un projet / Learned in a project | Utilisé dans plusieurs projets / Used in multiple projects |
+|---|:---:|:---:|:---:|
+| React | | X | |
+| Vite | | X | |
+| Godot | | X | |
 | Qt |   | X |   |
 | Android Studio |   |  | X |
-|  |   |  |   |
+
+| Technologies | En apprentissage / Learning | Apris dans un projet / Learned in a project | Utilisé dans plusieurs projets / Used in multiple projects |
+|---|:---:|:---:|:---:|
 | OracleSQL |   | X |   |
 | MySQL |   |  | X |
 | Docker |   |  | X |
 | Virtual Box |   |  | X |
 | REST API |   |  | X |
-| Node |   | X |  |
-|  |   |  |   |
+| Node |   |  | X |
+| Grafana |   | X |   |
