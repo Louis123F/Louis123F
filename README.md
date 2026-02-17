@@ -9,6 +9,7 @@
 ```
 enum Interets {
 
+  Software architecture,
   WebDev,
   MobileDev,
   DesktopDev,
@@ -23,7 +24,7 @@ enum Interets {
 
 | Langages/Languages | En apprentissage / Learning | Apris dans un projet / Learned in a project | Utilisé dans plusieurs projets / Used in multiple projects |
 |---|:---:|:---:|:---:|
-| C |   | X |   |
+| C |   | | X |
 | C++ |   |  | X |
 | Java |   |  | X |
 | HTML |   |  | X |
@@ -42,13 +43,23 @@ enum Interets {
 | Godot | | X | |
 | Qt |   | X |   |
 | Android Studio |   |  | X |
+| Springboot | X | |   |
 
 | Technologies | En apprentissage / Learning | Apris dans un projet / Learned in a project | Utilisé dans plusieurs projets / Used in multiple projects |
 |---|:---:|:---:|:---:|
 | OracleSQL |   | X |   |
 | MySQL |   |  | X |
+| MongoDB |   | X |   |
+| PostgreSQL | X | |   |
 | Docker |   |  | X |
-| Virtual Box |   |  | X |
+| Grafana |   | | X |
+| Promotheus |   | | X |
 | REST API |   |  | X |
 | Node |   |  | X |
-| Grafana |   | X |   |
+| Redis |   | X |   |
+| GraphQL |   | X |   |
+| NGINX | X | |   |
+| Loki | X | |   |
+| Krakend | X | |   |
+| Virtual Box |   |  | X |
+
